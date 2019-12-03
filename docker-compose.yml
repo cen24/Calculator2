@@ -1,3 +1,7 @@
+#create a service called app - app can be called anything
+#volume: is joining local project which is
+# the period ". local directory" into the web folder
+# see docker file
 version: '2'
 services:
     app:
