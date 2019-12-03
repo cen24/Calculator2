@@ -1,0 +1,2 @@
+Mean,Medain,Mode,Stdev,zscore,zvalue4zscore,samplevar,proportion,populationvar,samplemean,population_correlation_coefficient,pvalue,samplestdev,Variance_of_population_proportion,Variance_of_sample_proportion,cintreval1,cintreval2
+495.5516129,496,681,296,1979,5,88184,1,87899,506,0.020388464,0.018144,298.955718,0.000700863,0.001393108,496.0573146,496.9006142

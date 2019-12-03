@@ -1,0 +1,172 @@
+Hash,Git-User, Date/Time,ChangeMade
+01ecd9a,Chinedu Nnaji,Sun Nov 10 16:51:21 2019 -0500,task: added log csv
+ab0b29d,Chinedu Nnaji,Sun Nov 10 16:46:06 2019 -0500,task: added log csv
+d1a02ce,Chinedu Nnaji,Sun Nov 10 16:43:04 2019 -0500,task: added log.csv
+5050e05,ChineduN,Sun Nov 10 16:42:13 2019 -0500,Update README.md
+5e5beb4,Chinedu Nnaji,Sun Nov 10 16:41:01 2019 -0500,task: read me commit logt
+6daa95b,rutvik2611,Sun Nov 10 16:06:07 2019 -0500,Fix:Use split function for Varaince of sample proportion
+2ee55fb,rutvik2611,Sun Nov 10 16:04:37 2019 -0500,Fix:Use split function for sample mean and sample stdev
+aaa48eb,rutvik2611,Sun Nov 10 16:04:08 2019 -0500,Fix:Update Result and test case
+e8e10a7,rutvik2611,Sun Nov 10 16:03:37 2019 -0500,Feature:Made a splut list function for sample
+7d08b37,ChineduN,Sun Nov 10 01:24:53 2019 -0500,fix : read me
+74a383c,Chinedu Nnaji,Sun Nov 10 01:23:24 2019 -0500,fix : read me and deleted vpop and samppop
+01054bf,rutvik2611,Sat Nov 9 20:46:24 2019 -0500,Fix:Median Test
+8ff49d0,rutvik2611,Sat Nov 9 18:14:08 2019 -0500,Feature:Variance_of_sample_proportion Function and unit test
+216a8e5,rutvik2611,Sat Nov 9 17:57:13 2019 -0500,Feature:Variance_of_population_proportion Function and unit test
+858880f,ChineduN,Sat Nov 9 14:52:42 2019 -0500,fix: readme
+0492daf,ChineduN,Sat Nov 9 14:52:19 2019 -0500,fix : fixed readme
+81b21a3,Chinedu Nnaji,Sat Nov 9 14:25:12 2019 -0500,fix : csv test
+60c19b0,Chinedu Nnaji,Sat Nov 9 14:21:39 2019 -0500,fix: Travis and Dockering running
+effa2cb,Chinedu Nnaji,Sat Nov 9 14:20:41 2019 -0500,fix: Travis and Dockering running
+5844467,Chinedu Nnaji,Sat Nov 9 13:52:29 2019 -0500,task : test
+5a79226,rutvik2611,Sat Nov 9 13:14:59 2019 -0500,fix:Removed emp_birthday csv
+1f95bc0,rutvik2611,Sat Nov 9 13:13:09 2019 -0500,Feature:Added
+294dfb3,rutvik2611,Sat Nov 9 13:05:24 2019 -0500,Feature:Added test_csvreader csv
+913f29f,rutvik2611,Sat Nov 9 13:04:56 2019 -0500,Feature:Added emp_birthday csv
+c7fead3,Chinedu Nnaji,Sat Nov 9 04:07:25 2019 -0500,task : running screenshots
+1ce83b2,Chinedu Nnaji,Sat Nov 9 04:01:23 2019 -0500,fix : for Travis
+4596579,Chinedu Nnaji,Sat Nov 9 03:46:24 2019 -0500,fix : for Travis
+4d942a0,Chinedu Nnaji,Sat Nov 9 03:44:07 2019 -0500,fix : for Travis
+a8b5768,Chinedu Nnaji,Sat Nov 9 03:41:43 2019 -0500,Merge branch 'master' of https://github.com/cen24/miniproject2
+e80891e,Chinedu Nnaji,Sat Nov 9 03:41:12 2019 -0500,fix: fix source for CSV for Dockerfile build
+796ea3f,rutvik2611,Sat Nov 9 02:24:41 2019 -0500,Fox:made some comment for later work
+6cebc09,rutvik2611,Sat Nov 9 02:07:07 2019 -0500,feature:Unit Test for samplestdev
+7838c4d,rutvik2611,Sat Nov 9 01:55:54 2019 -0500,Fix:pvalue and tested it
+48e0d19,rutvik2611,Sat Nov 9 01:50:44 2019 -0500,Fix:name of test case
+b711c70,rutvik2611,Sat Nov 9 01:50:04 2019 -0500,Feature:Test Case for pvalue
+2a001c1,rutvik2611,Sat Nov 9 01:44:21 2019 -0500,Feature:Varaince of population.py added a new file
+ef7cc22,Chinedu Nnaji,Sat Nov 9 01:33:13 2019 -0500,Feature: P value
+2ce3984,rutvik2611,Sat Nov 9 01:11:28 2019 -0500,Fix:test_population_correlation_coefficient(with 2nd array in array3.csv ) + function call for same in extededstat
+8b2638e,Chinedu Nnaji,Sat Nov 9 00:46:17 2019 -0500,Feature: Pop Corelation Coef
+80f778d,rutvik2611,Sat Nov 9 00:40:36 2019 -0500,Fix:need Population correlation coefficient using numpy1
+1cf331c,rutvik2611,Sat Nov 9 00:39:47 2019 -0500,Fix:need Population correlation coefficient using numpy
+0deca9e,rutvik2611,Sat Nov 9 00:12:53 2019 -0500,Feature:Population_correlation coefficent py
+7caac39,rutvik2611,Fri Nov 8 22:41:37 2019 -0500,Feature:Fix Samplemean
+b8de7c5,Chinedu Nnaji,Fri Nov 8 22:40:38 2019 -0500,fix: code and reade me
+19419bb,Chinedu Nnaji,Fri Nov 8 22:20:32 2019 -0500,fix: class in extendedstat
+ccb457e,Chinedu Nnaji,Fri Nov 8 22:14:03 2019 -0500,feature :  variance of sample and pop proportion added
+1e8e169,Chinedu Nnaji,Fri Nov 8 21:57:33 2019 -0500,task : deleted test CSV reader
+c8cf584,rutvik2611,Fri Nov 8 21:53:18 2019 -0500,Feature:Test for sample mean
+ce841bc,Chinedu Nnaji,Fri Nov 8 20:34:58 2019 -0500,task : test CSV reader
+48a32ab,Chinedu Nnaji,Fri Nov 8 20:34:27 2019 -0500,task : test CSV reader
+025b016,Chinedu Nnaji,Fri Nov 8 16:43:15 2019 -0500,fix : fixed stats calc & absolutepath
+b56ab00,rutvik2611,Fri Nov 8 14:38:47 2019 -0500,Feature:unit test for samplemean
+9e1adf5,rutvik2611,Fri Nov 8 14:13:52 2019 -0500,Feature:populationvar,samplevar and zscore Test units
+e864182,Chinedu Nnaji,Thu Nov 7 23:46:46 2019 -0500,Merge branch 'master' of https://github.com/cen24/miniproject2
+77ba977,rutvik2611,Thu Nov 7 23:33:51 2019 -0500,Task:Added and removed some files for testing
+05d0ca2,rutvik2611,Thu Nov 7 23:33:17 2019 -0500,Task:Temp Fix
+b8cf9be,Chinedu Nnaji,Thu Nov 7 23:21:00 2019 -0500,fix : fixed stats calc
+ff9964f,rutvik2611,Thu Nov 7 17:52:00 2019 -0500,Task:Intensional Error Introduced-2
+f959809,rutvik2611,Thu Nov 7 17:46:39 2019 -0500,Task:Intensional Error Introduced
+a7768dd,rutvik2611,Thu Nov 7 17:16:01 2019 -0500,Task:ReFactored absolute file path
+58bf51b,rutvik2611,Thu Nov 7 16:28:48 2019 -0500,Task:Result3 csv updated with values
+f7e4e6b,rutvik2611,Thu Nov 7 16:28:25 2019 -0500,Task:Medain Mode and Stdev test from csv added
+c039405,rutvik2611,Thu Nov 7 16:11:06 2019 -0500,Task:Added Array3 and Array3_result csv
+2ae8634,rutvik2611,Thu Nov 7 16:10:08 2019 -0500,Feature:Mean Test Using Csv file(Array3)
+0ed0a14,rutvik2611,Thu Nov 7 16:08:46 2019 -0500,Feature:Exeption for mode function
+5dbf169,rutvik2611,Tue Nov 5 17:39:14 2019 -0400,Fix:Seprated StatisticsTest and Extended Stat
+aa7ea9b,rutvik2611,Tue Nov 5 17:25:11 2019 -0400,Fix:Re-Structred the code
+fb81767,rutvik2611,Tue Nov 5 17:21:25 2019 -0400,Task:Relocated  files cinterval,extended sta,proportion ,pvalue ,sample mean and zscore
+89adb7b,rutvik2611,Tue Nov 5 17:19:57 2019 -0400,Task:Mean,Median,mode and stdev files with function
+944b9dc,rutvik2611,Tue Nov 5 17:15:57 2019 -0400,Task:Extended Stat
+ebc7015,Chinedu Nnaji,Tue Nov 5 16:06:03 2019 -0500,Task: fixed after professor assessment
+cd20210,Chinedu Nnaji,Tue Nov 5 16:04:24 2019 -0500,Task: fixed after professor assessment
+10d398d,Chinedu Nnaji,Tue Nov 5 04:32:00 2019 -0500,Feature: added statistics computation modules
+b463349,Chinedu Nnaji,Tue Nov 5 04:30:59 2019 -0500,Feature: added statistics computation modules
+876f6e8,Chinedu Nnaji,Tue Nov 5 04:02:00 2019 -0500,task: check off items
+8fc4adc,rutvik2611,Mon Nov 4 18:08:06 2019 -0400,Fix:Addition
+cd2d6dc,rutvik2611,Mon Nov 4 18:02:00 2019 -0400,Fix:Relocated Cal2
+dc7f8f3,rutvik2611,Mon Nov 4 18:01:32 2019 -0400,Fix:Relocated Cal2
+137bacb,rutvik2611,Mon Nov 4 18:00:07 2019 -0400,Feature:z score,samplemean and population stander deviation (remoced new py)
+c381b9e,rutvik2611,Mon Nov 4 17:58:59 2019 -0400,Feature:Made Median,mode,std deviation function
+f31393f,rutvik2611,Mon Nov 4 17:57:58 2019 -0400,Feature:Made Mean function
+af9cf15,Chinedu Nnaji,Mon Nov 4 16:15:46 2019 -0500,fix : added chinedu folder
+5042620,rutvik2611,Mon Nov 4 16:49:06 2019 -0400,Check:TravisCI
+21be464,rutvik2611,Mon Nov 4 16:44:17 2019 -0400,Feature:Population Stander Deviation
+931fa6d,rutvik2611,Mon Nov 4 16:00:28 2019 -0400,Feature:Population Stander Deviation
+3a67731,Chinedu Nnaji,Mon Nov 4 13:19:24 2019 -0500,fix:
+d0a9ae8,Chinedu Nnaji,Mon Nov 4 13:19:04 2019 -0500,task: travis build
+3fbb4a1,rutvik2611,Sun Nov 3 19:21:53 2019 -0400,Fix:Removed some prints from z score
+2fcdfa6,rutvik2611,Sun Nov 3 19:20:40 2019 -0400,Fix:Removed some prints
+bee6a7d,rutvik2611,Sun Nov 3 18:41:13 2019 -0400,Fix:Calculator Test
+a35edbe,rutvik2611,Sun Nov 3 17:33:42 2019 -0400,Fix:Calculator Test
+a1869a7,rutvik2611,Sun Nov 3 16:55:44 2019 -0400,Fix:Calculator Test(major)
+876f247,rutvik2611,Sun Nov 3 16:40:51 2019 -0400,Fix:Sample_mean , zscore and sqrt(edge case)
+f7e2567,rutvik2611,Sun Nov 3 00:10:36 2019 -0300,Feature:added sample mean(made some error square)
+cef4409,rutvik2611,Sat Nov 2 22:22:07 2019 -0300,Feature:made read csv function
+bb57a9a,rutvik2611,Sat Nov 2 22:21:58 2019 -0300,Feature:made read csv function
+fd89920,rutvik2611,Sat Nov 2 17:31:12 2019 -0300,Feature:Added square and square root methods and seprated result file
+ef861c8,rutvik2611,Sat Nov 2 17:15:51 2019 -0300,Feature:seprated addition,subtraction,multiplication and division
+74c3796,rutvik2611,Fri Nov 1 19:11:17 2019 -0300,Fix:Added pandas to dockerfile
+54475ca,rutvik2611,Fri Nov 1 19:11:01 2019 -0300,Fix:Added pandas to dockerfile
+b43b6fc,rutvik2611,Fri Nov 1 19:08:05 2019 -0300,Fix:Added pandas to dockerfile
+8847e3f,rutvik2611,Fri Nov 1 19:05:22 2019 -0300,Update:made changes to docker and travis file2
+a84d138,rutvik2611,Fri Nov 1 18:32:01 2019 -0300,Update:made changes to docker and travis file
+a798d18,rutvik2611,Fri Nov 1 18:14:19 2019 -0300,Feature:Made Z-score Indiviaual file and made a test for it(without csv)
+34edf79,rutvik2611,Fri Nov 1 17:55:40 2019 -0300,Fix:Mode By changing multiple values in cs
+dbd541c,rutvik2611,Fri Nov 1 17:38:53 2019 -0300,Feature:Final(add,sub,mul,div,sq,sqrt,mean,median,stdev) from csv
+90c8072,rutvik2611,Fri Nov 1 17:35:14 2019 -0300,Feature:Added Result csv and modified test according to that
+a209b5b,rutvik2611,Fri Nov 1 16:04:46 2019 -0300,Fix:Test Case for mean media stdev (commented mode-error)
+6927486,rutvik2611,Fri Nov 1 16:04:16 2019 -0300,Fix:Test Case for mean media stdev (commented mode-error)
+f05adc5,rutvik2611,Fri Nov 1 16:03:20 2019 -0300,Fix:all the function mean median mode
+5c673c9,rutvik2611,Fri Nov 1 04:17:11 2019 -0300,FIX:ERROR with new array list
+8afe67f,rutvik2611,Fri Nov 1 04:04:51 2019 -0300,Add:CSV FILES
+3f1d770,rutvik2611,Fri Nov 1 04:04:02 2019 -0300,Fix:an array in read_csv class
+0dabe8f,rutvik2611,Fri Nov 1 04:03:44 2019 -0300,Feature:import stat
+b91025a,rutvik2611,Fri Nov 1 04:02:41 2019 -0300,Feature:Added Stat(Mean,median and mode)
+c01a9c2,rutvik2611,Fri Nov 1 03:28:12 2019 -0300,Fix:fixxed test function
+64f3df5,rutvik2611,Fri Nov 1 03:27:37 2019 -0300,Feature:Added Read Array function
+043f822,rutvik2611,Fri Nov 1 02:23:22 2019 -0300,Feature:Added CSV FILES
+e5031d8,rutvik2611,Fri Nov 1 02:22:52 2019 -0300,Feature:Added Read CSV MODULE
+827118b,rutvik2611,Fri Nov 1 01:41:06 2019 -0300,Feature:Added New Files for testing
+285d7f9,rutvik2611,Tue Oct 29 18:11:19 2019 -0300,Feature:Added P-Valaue
+fdcf83a,rutvik2611,Tue Oct 29 17:39:24 2019 -0300,Feature:Added P-Valaue
+cba1596,rutvik2611,Tue Oct 29 16:25:46 2019 -0300,Feature:Added Popvariance and unit test for it
+6c67970,Chinedu Nnaji,Tue Oct 29 15:02:56 2019 -0400,fix: pop variance function
+f39cfda,rutvik2611,Tue Oct 29 14:04:55 2019 -0300,Fix:List issue with mode
+d346aa4,rutvik2611,Tue Oct 29 03:10:42 2019 -0300,Feature:try addind read csv
+21b309a,rutvik2611,Tue Oct 29 02:29:57 2019 -0300,Fix:List readind in test file(except for mode)
+c057587,rutvik2611,Tue Oct 29 02:05:13 2019 -0300,Feature:function sample mean(working)
+36abb70,rutvik2611,Mon Oct 28 23:56:51 2019 -0300,Feature:function sample mean(half)
+90a884f,rutvik2611,Mon Oct 28 23:03:00 2019 -0300,Feature:function sample mean
+d51ccbc,rutvik2611,Mon Oct 28 22:57:52 2019 -0300,Fix:Updated ReadMe for z score
+f8fd4ba,rutvik2611,Mon Oct 28 22:54:44 2019 -0300,Fix:Updated ReadMe for z score
+f441ac6,rutvik2611,Mon Oct 28 22:51:33 2019 -0300,Feature: Calling the existing function to calculate and function of z score
+1ee70a7,Chinedu Nnaji,Mon Oct 28 20:38:08 2019 -0400,fix: functions
+c72ddec,Chinedu Nnaji,Mon Oct 28 19:02:42 2019 -0400,fix: intentional error2
+ac2cf7e,Chinedu Nnaji,Mon Oct 28 19:01:20 2019 -0400,fix: intentional error
+b39f859,rutvik2611,Mon Oct 28 14:56:03 2019 -0300,Fix:Adding csv file to root directory
+bcaca9f,rutvik2611,Mon Oct 28 14:44:27 2019 -0300,Feature:Added uadd.csv and made a test for adding csv
+e5294f0,Chinedu Nnaji,Sun Oct 27 16:00:47 2019 -0400,Feature: dependency set up
+1df0e20,Chinedu Nnaji,Sun Oct 27 15:51:01 2019 -0400,fix: travis
+3fe323a,Chinedu Nnaji,Sun Oct 27 15:49:40 2019 -0400,fix: travis
+d0076ea,Chinedu Nnaji,Sun Oct 27 15:34:53 2019 -0400,fix : travis file
+6afc336,Chinedu Nnaji,Sun Oct 27 01:16:49 2019 -0400,Update README.md
+82c2554,Chinedu Nnaji,Sun Oct 27 00:50:42 2019 -0400,fix : import file py
+6b7abb6,Chinedu Nnaji,Sun Oct 27 00:37:21 2019 -0400,fix: travis file
+956e1d1,Chinedu Nnaji,Sun Oct 27 00:35:04 2019 -0400,fix: travis file
+7a5d53c,Chinedu Nnaji,Sat Oct 26 23:56:16 2019 -0400,fix: calctest file location
+cf3af05,Chinedu Nnaji,Sat Oct 26 23:54:16 2019 -0400,Merge branch 'master' of https://github.com/cen24/miniproject2
+b58d4a2,Chinedu Nnaji,Sat Oct 26 23:51:54 2019 -0400,Feature: New stat functions (mean, mode and median)
+9661271,Chinedu Nnaji,Sat Oct 26 23:50:25 2019 -0400,fix: link
+ecd40f9,Chinedu Nnaji,Sat Oct 26 23:47:48 2019 -0400,Update README.md
+90b80bf,Chinedu Nnaji,Sat Oct 26 23:44:39 2019 -0400,Task: updated read with a few completed tasks
+859c9ef,Chinedu Nnaji,Sat Oct 26 23:38:33 2019 -0400,Feature: added travis CI
+cc9422d,Chinedu Nnaji,Sat Oct 26 22:47:32 2019 -0400,Feature: added population mean calculation with CI checking for any errors
+fd1cde7,Chinedu Nnaji,Sat Oct 26 22:42:31 2019 -0400,Task: added travisCI
+12f1302,Chinedu Nnaji,Sat Oct 26 22:27:24 2019 -0400,Fix: imported statistics
+b0f2794,Chinedu Nnaji,Sat Oct 26 03:36:52 2019 -0400,fix: link
+c964811,Chinedu Nnaji,Sat Oct 26 03:34:20 2019 -0400,fix: terms link
+e0848e6,Chinedu Nnaji,Sat Oct 26 03:33:22 2019 -0400,fix: link update
+6f6556f,Chinedu Nnaji,Sat Oct 26 03:31:26 2019 -0400,Task: added terms link
+ad0f1e8,Chinedu Nnaji,Fri Oct 25 20:58:46 2019 -0400,Fix: Lines of code for unit test
+b1c529c,Chinedu Nnaji,Fri Oct 25 20:51:39 2019 -0400,Task: Seting up Calc. from Calculator Repo
+6c0323f,Chinedu Nnaji,Fri Oct 25 18:10:49 2019 -0400,Task: Seting up Calc. from Calculator Repo
+3204b03,Chinedu Nnaji,Fri Oct 25 18:09:46 2019 -0400,Task: Setting up Docker environment
+df486b5,Chinedu Nnaji,Fri Oct 25 17:35:26 2019 -0400,Task: updated readme
+122aca8,Chinedu Nnaji,Fri Oct 25 17:28:39 2019 -0400,Update README.md
+7096744,Chinedu Nnaji,Fri Oct 25 17:28:15 2019 -0400,Update README.md
+38bec9a,Chinedu Nnaji,Fri Oct 25 17:26:19 2019 -0400,Update README.md
+9a44488,Chinedu Nnaji,Fri Oct 25 17:17:38 2019 -0400,Update README.md
+1d889be,Chinedu Nnaji,Fri Oct 25 17:17:05 2019 -0400,Task: updated readme
+8bbe5be,Chinedu Nnaji,Fri Oct 25 17:07:14 2019 -0400,Initial commit
