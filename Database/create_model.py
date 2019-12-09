@@ -36,3 +36,23 @@ class Item(Base):
     selling_price = Column(Numeric(10, 2), nullable=False)
     quantity = Column(Integer(), nullable=False)
     orders = relationship("OrderLine", backref='item')
+
+
+
+class Order(Base):
+    __tablename__ = 'orders'
+    id = Column(Integer(), primary_key=True)
+    customer_id = Column(Integer(), ForeignKey('customers.id'))
+    date_placed = Column(DateTime(), default=datetime.now)
+    line_items = relationship("OrderLine", backref='order')
+
+
+class OrderLine(Base):
+    __tablename__ = 'order_lines'
+    id = Column(Integer(), primary_key=True)
+    order_id = Column(Integer(), ForeignKey('orders.id'))
+    item_id = Column(Integer(), ForeignKey('items.id'))
+    quantity = Column(SmallInteger())
+
+
+Base.metadata.create_all(engine)
