@@ -4,7 +4,7 @@ from sqlalchemy.orm import relationship
 
 from datetime import datetime
 
-engine = create_engine("sqlite:///sqlalchemy_example.db")
+engine = create_engine("sqlite:///db1.sqlite")
 Base = declarative_base()
 
 class Customer(Base):

@@ -1,7 +1,7 @@
 # This Python file uses the following encoding: utf-8
 import sqlite3
 
-conn = sqlite3.connect('example.db')
+conn = sqlite3.connect('sqlite:///db1.sqlite')
 
 c = conn.cursor()
 c.execute('''
