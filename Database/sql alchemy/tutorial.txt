@@ -1,0 +1,42 @@
+SQLAlchemy Connection Pool
+
+To create engine (i.e Engine object), we use create_engine() function of the sqlalchemy package.
+At its simplest, it accepts the connection string. The connection string provides information about the data source.
+Its general format is as follows:
+
+1. dialect+driver://username:password@host:port/database
+The dialect refers to the name of the database like mysql, postgresql, mssql, oracle and so on.
+The driver refers to the DBAPI you are using. The driver is optional, if not specified a default driver will be used
+(assuming it is already installed). The username and password are the credentials to login to the database server.
+The host is the location of the database server.
+The port refers to the optional database port and database is the name of the database you want to connect to.
+
+Here is the code to create an engine for some popular databases:
+
+from sqlalchemy import  create_engine
+
+engine = create_engine('sqlite:///sqlite3.db') # using relative path
+engine = create_engine('sqlite:////path/to/sqlite3.db') # using absolute path
+
+
+from sqlalchemy import create_engine
+
+# Connecting to MySQL server at localhost using PyMySQL DBAPI
+engine = create_engine("mysql+pymysql://root:pass@localhost/mydb")
+
+# Connecting to MySQL server at 23.92.23.113 using mysql-python DBAPI
+engine = create_engine("mysql+mysqldb://root:pass@23.92.23.113/mydb")
+
+# Connecting to PostgreSQL server at localhost using psycopg2 DBAPI
+engine = create_engine("postgresql+psycopg2://root:pass@localhost/mydb")
+
+# Connecting to Oracle server at localhost using cx-Oracle DBAPI
+engine = create_engine("oracle+cx_oracle://root:pass@localhost/mydb")
+
+# Connecting to MSSQL server at localhost using PyODBC DBAPI
+engine = create_engine("oracle+pyodbc://root:pass@localhost/mydb")
+
+
+Connecting to the Database
+Note that creating an engine doesn’t instantly establish a connection to the database.
+To obtain the connection we use connect() method of the Engine object which returns an object of type Connection.
