@@ -6,7 +6,7 @@ from Database import sqlite_create
 engine = create_engine("sqlite:///db1.sqlite")
 session = Session(bind=engine)
 
-# Populate Customer Data
+
 c1 = sqlite_create.Customer(first_name='Toby',
                            last_name='Miller',
                            username='tmiller',
