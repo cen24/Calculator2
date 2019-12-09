@@ -1,6 +1,6 @@
 # **Calculator 2**
 
-![Build Status](https://travis-ci.org/cen24/miniproject2.svg?branch=master)
+![Build Status](https://travis-ci.org/cen24/Calculator2.svg?branch=master)
 
 Forked from [MiniProject 2](https://github.com/cen24/miniproject2)
 
